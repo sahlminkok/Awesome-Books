@@ -48,8 +48,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name=""></a>
-- **[Live Demo Link]**
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -122,10 +121,6 @@ If you like this project just give it a star
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
