@@ -14,25 +14,30 @@ h2 {
   font-weight: 400;
   padding: 2%;
 }
+
 #book-list {
   list-style: none;
   width: 50%;
   margin: 0 auto;
   border: 2px solid black;
 }
+
 .book {
   display: flex;
   justify-content: space-between;
   padding: 10px;
   align-items: center;
 }
+
 .book:nth-of-type(2n + 1) {
   background-color: #989898;
 }
+
 .remove {
   border: 1px solid black;
   padding: 5px;
 }
+
 form {
   margin: 0 auto;
   display: flex;
@@ -40,12 +45,14 @@ form {
   align-items: center;
   width: 30%;
 }
+
 form input {
   width: 95%;
   font-size: 1rem;
   padding: 10px;
   margin: 10px 0;
 }
+
 form button {
   padding: 10px 15px;
   align-self: flex-end;
