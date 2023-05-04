@@ -79,21 +79,28 @@ const contact = document.querySelector('#contact');
 const listBtn = document.querySelector('#list-btn');
 const addNewBtn = document.querySelector('#addNew-btn');
 const contactBtn = document.querySelector('#contact-btn');
+
 list.classList.remove('hidden');
 addNew.classList.add('hidden');
 contact.classList.add('hidden');
+
 listBtn.addEventListener('click', () => {
   addNew.classList.add('hidden');
   contact.classList.add('hidden');
   list.classList.remove('hidden');
 });
+
 addNewBtn.addEventListener('click', () => {
   list.classList.add('hidden');
   addNew.classList.remove('hidden');
   contact.classList.add('hidden');
 });
+
 contactBtn.addEventListener('click', () => {
   list.classList.add('hidden');
   contact.classList.remove('hidden');
   addNew.classList.add('hidden');
 });
+
+const DateTime = new Date();
+document.querySelector('.time').innerHTML = DateTime;

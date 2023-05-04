@@ -30,6 +30,10 @@ nav {
   text-decoration: none;
 }
 
+.time {
+  text-align: right;
+}
+
 .hidden {
   display: none;
 }
