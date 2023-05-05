@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Inter:wght@400;500&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
-/* * {
-  margin: 0;
-} */
-
 body {
   font-family: "lato", sans-serif;
   min-height: 100vh;
@@ -105,5 +101,5 @@ footer {
   border: 5px solid black;
   text-align: center;
   letter-spacing: 1px;
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
