@@ -1,11 +1,10 @@
-/* eslint-disable max-classes-per-file */
 class Book {
   constructor(title, author) {
     this.title = title;
     this.author = author;
   }
 }
-/* eslint-disable max-classes-per-file */
+
 class Library {
   constructor() {
     this.books = [];
